@@ -28,4 +28,4 @@ No external dependencies needed — just Python's built-in `random`, `os`, and `
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+THIS PROJECT IS COPYRIGHT PROTECTED (I'm kidding, use it to your heart's content)
